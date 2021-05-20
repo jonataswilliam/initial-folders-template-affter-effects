@@ -1,4 +1,4 @@
-#Para baixar a pasta, clique no Botão verde escrito Code > Download Zip.
+# Para baixar a pasta, clique no Botão verde escrito Code > Download Zip.
 
 Não se sinta mal por não saber, é escondido mesmo!!!
 
