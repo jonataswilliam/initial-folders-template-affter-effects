@@ -25,7 +25,7 @@ createTemplateFolders = function() {
     project.addFolder("Images").parentFolder = elementsFolder;
     project.addFolder("Renders").parentFolder = elementsFolder;    
 
-    alert('Folders was created!\n\nCreated by Jonatas William (Jow) \nInstagram: @jow.co\nArtstation: https://www.artstation.com/jwfernando')
+    alert('Folders have been created!\n\nCreated by Jonatas William (Jow) \nInstagram: @jow.co\nArtstation: https://www.artstation.com/jwfernando')
 }
 
 createTemplateFolders();
