@@ -16,6 +16,8 @@ Criado por Jonatas William.
 Instagram: @jow.co
 Artstation: https://www.artstation.com/jwfernando
 
+https://github.com/jonataswilliam/initial-folders-template-affter-effects
+
 #GO TPA30
 
 
